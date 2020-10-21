@@ -4,5 +4,7 @@ body {
 
 .caja {
   margin: 8px;
+  padding: 8px;
+  border: 8px solid #afa;
   background-color: #aaf;
 }
