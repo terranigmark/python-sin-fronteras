@@ -5,6 +5,11 @@ body {
 .caja {
   margin: 8px;
   padding: 8px;
-  border: 8px solid #afa;
+  border: 8px solid #faa;
   background-color: #aaf;
+  border-left: 8px solid #afa;
+  border-radius: 10px;
+  height: 100px;
+  width: 100px;
+  color: #575;
 }
