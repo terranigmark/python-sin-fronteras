@@ -3,6 +3,10 @@ body {
 }
 
 p {
+  font-family: "Times New Roman";
+  font-style: oblique;
+  font-size: 1.5em;
+  font-weight: 200;
   color: #222fff;
   text-align: justify;
   text-indent: 40px;
