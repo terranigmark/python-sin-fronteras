@@ -3,6 +3,9 @@ body {
 }
 
 .fondo {
-  background-color: hsl(120, 60%, 70%);
-  opacity: 0.85;
+  background-image: repeating-linear-gradient(
+    0deg,
+    rgba(255, 0, 0, 1) 10%,
+    tomato 20%
+  );
 }
