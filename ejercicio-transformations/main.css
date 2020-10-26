@@ -1,0 +1,40 @@
+body {
+  background-color: #eee;
+}
+
+div {
+  width: 300px;
+  margin: 15px;
+  background-color: white;
+  box-shadow: 2px 2px 4px rgb(0, 0, 0, 0.2);
+  transition: 0.3s;
+}
+
+p {
+  padding: 15px 15px;
+  text-align: center;
+}
+
+.red-box {
+  border-left: 2px solid red;
+}
+
+.red-box:hover {
+  transform: scale(1.05, 1.05);
+}
+
+.green-box {
+  border-left: 2px solid green;
+}
+
+.green-box:hover {
+  box-shadow: 2px 2px 8px rgb(0, 0, 0, 0.2);
+}
+
+.blue-box {
+  border-left: 2px solid blue;
+}
+
+.blue-box:hover {
+  background-color: rgba(0, 0, 255, 0.05);
+}
