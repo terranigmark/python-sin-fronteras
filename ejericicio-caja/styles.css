@@ -1,0 +1,30 @@
+body {
+  background-color: #e9e9e9;
+}
+
+div {
+  background-color: white;
+  border-top: hidden;
+  border-right: 2px solid gainsboro;
+  border-bottom: 1px solid gainsboro;
+  border-left: 2px solid gainsboro;
+  padding: 10px;
+}
+
+.bot {
+  border-bottom: 2px solid gainsboro;
+}
+
+button {
+  border: none;
+  padding: 8px;
+  color: white;
+}
+
+.btn-accept {
+  background-color: #1777f5;
+}
+
+.btn-cancel {
+  background-color: #aaaaaa;
+}
